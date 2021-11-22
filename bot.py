@@ -10,6 +10,7 @@
 # license           : MIT
 # py version        : 3.9.7 (must run on 3.6 or higher)
 #==============================================================================
+
 from discord.ext import commands
 import scraper
 token = ''
